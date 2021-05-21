@@ -13,4 +13,4 @@ while randNumber != userGuess:
          print("You guessed it wrong! Enter a larger number")
     else:
         print("You guessed it right!")
-print(f"You take "+str(guesses)+" guesses")
+print("You take "+str(guesses)+" guesses")
